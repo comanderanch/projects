@@ -1,0 +1,26 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "this is all my projects hope to finish them",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comanderanch/projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comanderanch/projects/issues"
+  },
+  "homepage": "https://github.com/comanderanch/projects#readme",
+  "devDependencies": {
+    "mocha": "^11.1.0"
+  }
+}
